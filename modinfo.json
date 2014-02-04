@@ -1,0 +1,8 @@
+    {
+        "type": "MOD_INFO",
+        "mod-type": "SUPPLEMENTAL",
+        "ident": "xprofessions",
+        "name": "XProfessions",
+        "description": "Adds more professions",
+        "path": "\data\json\professions.json"
+    }
