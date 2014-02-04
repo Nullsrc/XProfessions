@@ -2211,5 +2211,109 @@
 				"panties"
             ]
         }
+	},
+	{
+        "type": "profession",
+        "ident": "powerplantworker",
+        "name": "Power Plant Worker",
+        "description": "You worked at the power plants before the Cataclysm, and your skills may come in handy later, assuming you survive first...",
+        "points": 2,
+        "skills": [
+            {
+                "level": 3,
+                "name": "mechanics"
+            },
+			{
+				"level": 1,
+				"name": "carpentry"
+			}
+        ],
+        "items": {
+            "both": [
+				"jumpsuit",
+				"hat_hard",
+				"socks",
+				"boots_rubber",
+				"gloves_rubber",
+				"wrench"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"boy_shorts"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "bionicboxer",
+        "name": "Bionic Boxer",
+        "description": "Until you were disqualified from the competition, nobody knew how you always won. Show them that cheaters will prosper!",
+        "points": 3,
+        "skills": [
+            {
+                "level": 3,
+                "name": "unarmed"
+			}
+        ],
+        "items": {
+            "both": [
+				"army_top",
+				"pants_cargo",
+				"socks",
+				"sneakers"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"briefs"
+            ]
+        },
+		"CBMs": [
+			"bio_batteries",
+			"bio_power_storage_mkII",
+			"bio_hydraulics",
+			"bio_armor_torso"
+		]
+	},
+	{
+        "type": "profession",
+        "ident": "lieutenant",
+        "name": "Lieutenant",
+        "description": "You were all set to take command when the Cataclysm hit. At least you still have your gun and your commanding presence.",
+        "points": 2,
+        "skills": [
+            {
+                "level": 2,
+                "name": "speech"
+            },
+			{
+				"level": 2,
+				"name": "smg"
+			}
+        ],
+        "items": {
+            "both": [
+				"army_top",
+				"beret",
+				"jacket_leather",
+				"pants",
+				"socks",
+				"boots",
+				"pda",
+				"uzi"
+            ],
+            "male": [
+				"boxer_shorts"
+            ],
+            "female": [
+                "bra",
+				"boy_shorts"
+            ]
+        }
 	}
 ]
