@@ -28,15 +28,16 @@ How to install: Unpack the XProfessions folder into your mods folder of your dat
 *Prototype Android
 *Daredevil
 *Assassin
+*Bartender
+*Millionaire
 ===============================================
 Version 1.0: Original Release, included: Entrepreneur, Rifle Hunter, Miner, Martial Artist, Delinquent, Spelunker, Factory Worker, Cowboy, Welder, Camper, and Biggest Fan
 
 Version 2.0: Comeplete rewrite, added in: Bookworm, Race Car Driver, Megaman Wannabe, Middle Aged Guy, Mayor, Jogger, Flasher, Cannabis Grower, and Furry LARPER. Many of the professions from 1.0 were altered drastically, to rebalance with the dev version.
-
 Version 2.1: Added in: Factory Worker, Lieutenant, and Bionic Boxer.
 
 Version 3.0: Uses the mods system in Dev CataDDA. DEV VERSION REQUIRED!
-
 Version 3.1: Rebalancing
 
 Version 4.0: Bugfixes, added: Improviser, Pharmacist, Prototype Android, Daredevil, Assassin.
+Version 4.1: Bartender and Millionaire
