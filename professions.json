@@ -881,5 +881,62 @@
 			"bio_power_storage",
 			"bio_eyes"
 		]
+	},
+	{
+        "type": "profession",
+        "ident": "millionaire",
+        "name": "Millionaire",
+        "description": "You were the wealthiest man in town, but not even you could buy your way out of the apocalypse. These damn zombies even stole you Rolls Royce!",
+        "points": 0,
+        "skills": [
+            {
+                "level": 2,
+                "name": "barter"
+            }
+        ],
+        "items": {
+            "both": [
+				"suit",
+				"dress_shoes",
+				"socks",
+				"tophat",
+				"cane"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "corset"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "bartender",
+        "name": "Bartender",
+        "description": "You owned a small bar, and you loved your job. Now that your cash flow has stopped, you may begin to take desperate measures. Maybe the zombies like booze...",
+        "points": 1,
+        "skills": [
+            {
+                "level": 1,
+                "name": "cooking"
+            }
+        ],
+        "items": {
+            "both": [
+				"dress_shirt",
+				"pants",
+				"socks",
+				"sneakers",
+				"money_bundle"
+            ],
+            "male": [
+				"boxer_shorts"
+            ],
+            "female": [
+                "bra",
+				"boy_shorts"
+            ]
+        }
 	}
 ]
