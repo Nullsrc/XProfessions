@@ -1,6 +1,6 @@
 The is a mod for Cataclysm: Dark Days Ahead. It adds several new professions. DEV VERSION REQUIRED
 ===============================================
-How to install: Unpack the XProfessions folder into your mods folder of your data directory. Rename it to: "Xprofession" (nix the quotes, of course)
+How to install: Unpack the XProfessions-master folder into your mods folder of your data directory. Rename it to: "Xprofession" (nix the quotes, of course)
 ===============================================
 *Entrepreneur
 *Rifle Hunter
