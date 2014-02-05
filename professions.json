@@ -1,10 +1,10 @@
-
+[
 	{
         "type": "profession",
         "ident": "entrepreneur",
         "name": "Entrepreneur",
         "description": "You were a budding businessman before the Cataclysm, selling what you claimed was the healthiest water around. Too bad money's worthless now.",
-        "points": 1,
+        "points": 0,
         "skills": [
             {
                 "level": 2,
@@ -37,46 +37,10 @@
 	},
 	{
         "type": "profession",
-        "ident": "riflehunter",
-        "name": "Rifle Hunter",
-        "description": "Your buddies knew you as the guy who always wanted to get out in the woods and shoot deer. They mocked you for your trapping and rifle skills. You'd laugh at them now, but they're all dead",
-        "points": 2,
-        "skills": [
-            {
-                "level": 2,
-                "name": "traps"
-            },
-			{
-				"level": 2,
-				"name": "rifle"
-			}
-        ],
-        "items": {
-            "both": [
-				"backpack",
-				"jeans",
-				"army_top",
-				"socks",
-				"boots",
-				"marlin_9a",
-				"pockknife",
-				"mag_survival"
-            ],
-            "male": [
-				"briefs"
-            ],
-            "female": [
-               "bra",
-			   "panties"
-            ]
-        }
-	},
-	{
-        "type": "profession",
-        "ident": "Miner",
-        "name": "miner",
+        "ident": "miner",
+        "name": "Miner",
         "description": "You worked in the mines before you immigrated to New England. Even though you couldn't find a job, you kept your pickaxe, flashlight, tool belt, and hardhat. Looks like they'll come in handy.",
-        "points": 2,
+        "points": 1,
         "skills": [
             {
                 "level": 2,
@@ -89,14 +53,14 @@
         ],
         "items": {
             "both": [
-			"pickaxe",
-			"hat_hard",
-			"flashlight",
-			"tool_belt",
-			"jeans",
-			"socks",
-			"boots",
-			"jacket_flannel"
+				"pickaxe",
+				"hat_hard",
+				"flashlight",
+				"tool_belt",
+				"jeans",
+				"socks",
+				"boots",
+				"jacket_flannel"
             ],
             "male": [
 				"briefs"
@@ -129,14 +93,14 @@
         ],
         "items": {
             "both": [
-			"jeans",
-			"hoodie",
-			"socks",
-			"sneakers",
-			"crackpipe",
-			"purse",
-			"lighter",
-			"usp_9mm"
+				"jeans",
+				"hoodie",
+				"socks",
+				"sneakers",
+				"crackpipe",
+				"purse",
+				"lighter",
+				"usp_9mm"
             ],
             "male": [
 				"briefs"
@@ -151,7 +115,7 @@
         "ident": "spelunker",
         "name": "Spelunker",
         "description": "You always liked going into caves and exploring around, and when the cataclysm hit you were lucky enough to be in the cave.",
-        "points": 2,
+        "points": 1,
         "skills": [
             {
                 "level": 2,
@@ -164,13 +128,13 @@
         ],
         "items": {
             "both": [
-			"shorts_cargo",
-			"chestrig",
-			"socks",
-			"boots",
-			"flashlight",
-			"rope_30",
-			"hat_hard"
+				"shorts_cargo",
+				"chestrig",
+				"socks",
+				"boots",
+				"flashlight",
+				"rope_30",
+				"hat_hard"
             ],
             "male": [
 				"briefs"
@@ -186,7 +150,7 @@
         "ident": "factoryworker",
         "name": "Factory Worker",
         "description": "You worked in the factories before the Cataclysm.",
-        "points": 3,
+        "points": 1,
         "skills": [
             {
                 "level": 2,
@@ -203,14 +167,14 @@
         ],
         "items": {
             "both": [
-			"jeans",
-			"socks",
-			"sneakers",
-			"tank_top",
-			"wrench",
-			"glasses_safety",
-			"welder",
-			"goggles_welding"
+				"jeans",
+				"socks",
+				"sneakers",
+				"tank_top",
+				"wrench",
+				"glasses_safety",
+				"welder",
+				"goggles_welding"
             ],
             "male": [
 				"briefs"
@@ -239,15 +203,15 @@
         ],
         "items": {
             "both": [
-			"chaps_leather",
-			"jacket_leather",
-			"socks",
-			"boots",
-			"cowboy_hat",
-			"sw_619",
-			"knife_combat",
-			"canteen",
-			"9mm"
+				"chaps_leather",
+				"jacket_leather",
+				"socks",
+				"boots",
+				"cowboy_hat",
+				"sw_619",
+				"knife_combat",
+				"canteen",
+				"9mm"
             ],
             "male": [
 				"briefs"
@@ -263,7 +227,7 @@
         "ident": "camper",
         "name": "Camper",
         "description": "You liked going off by yourself and camping in the woods. The skills you learned in the woods should come in handy.",
-        "points": 4,
+        "points": 2,
         "skills": [
             {
                 "level": 3,
@@ -280,15 +244,15 @@
         ],
         "items": {
             "both": [
-			"duffelbag",
-			"jacket_leather",
-			"shorts",
-			"tshirt",
-			"socks",
-			"boots_survivor",
-			"pockknife",
-			"towel",
-			"can_corn"
+				"duffelbag",
+				"jacket_leather",
+				"shorts",
+				"tshirt",
+				"socks",
+				"boots_survivor",
+				"pockknife",
+				"towel",
+				"can_corn"
             ],
             "male": [
 				"briefs"
@@ -304,7 +268,7 @@
         "ident": "biggestfan",
         "name": "Biggest Fan",
         "description": "You were always found in your mom's basement. According to Darwin, you shouldn't have survived. But you did.",
-        "points": 0,
+        "points": -2,
         "skills": [
             {
                 "level": 1,
@@ -317,11 +281,11 @@
         ],
         "items": {
             "both": [
-			"tshirt",
-			"shorts",
-			"socks",
-			"sneakers",
-			"mag_gaming"
+				"tshirt",
+				"shorts",
+				"socks",
+				"sneakers",
+				"mag_gaming"
             ],
             "male": [
 				"briefs"
@@ -337,7 +301,7 @@
         "ident": "bookworm",
         "name": "Bookworm",
         "description": "You always had you head in a book. People said that you'd never amount to anything, but all that reading has filled your head with good knowledge. You'll also have plenty of time to read the books you never got around to.",
-        "points": 3,
+        "points": 2,
         "skills": [
             {
                 "level": 1,
@@ -391,7 +355,7 @@
         "type": "profession",
         "ident": "racecardriver",
         "name": "Race Car Driver",
-        "description": "Although you weren't a pro, you could win against the regulars at the local track.",
+        "description": "Although you weren't a pro, you always won against the regulars at the local track.",
         "points": 2,
         "skills": [
             {
@@ -483,15 +447,16 @@
 				"tshirt",
 				"pants_cargo",
 				"socks",
-				"sneakers",
-				"lawnmower"
+				"sneakers"
             ],
             "male": [
-				"briefs"
+				"briefs",
+				"lawnmower"
             ],
             "female": [
                 "bra",
-				"panties"
+				"panties",
+				"purse"
             ]
         }
 	},
@@ -499,7 +464,7 @@
         "type": "profession",
         "ident": "mayor",
         "name": "Mayor",
-        "description": "You were the town mayor, and although you were never very popular, you didn't have many enemies either.",
+        "description": "You were the town mayor, and although you were never very popular, you didn't have many enemies either. Maybe you could try some anti-zombie legislation.",
         "points": -1,
         "skills": [
             {
@@ -533,7 +498,7 @@
         "ident": "jogger",
         "name": "Jogger",
         "description": "You loved to run, and with all the zombies around, you'll still get to do it a lot.",
-        "points": 1,
+        "points": -1,
         "skills": [
             {
                 "level": 2,
@@ -562,7 +527,7 @@
         "ident": "flasher",
         "name": "Flasher",
         "description": "Anytime you try to flash a zombie, he almost eats your brains. It's probably wise to not get close enough to attempt to flash them, anyway.",
-        "points": -1,
+        "points": 0,
         "items": {
             "both": [
 				"trenchcoat",
@@ -582,7 +547,7 @@
         "ident": "cannabisgrower",
         "name": "Cannabis Grower",
         "description": "You grew and sold Cannabis before the Cataclysm. Maybe someday you'll find someone willing to buy it.",
-        "points": 1,
+        "points": 0,
         "skills": [
             {
                 "level": 1,
@@ -614,7 +579,7 @@
         "type": "profession",
         "ident": "furrylarper",
         "name": "Furry LARPer",
-        "description": "You were all set to go over to your friend's house and LARP, but now you don't know if you'll ever see him again.",
+        "description": "You were all set to go over to your friend's house and do some LARPing, but now you don't know if you'll ever see him again.",
         "points": -2,
         "items": {
             "both": [
@@ -724,7 +689,8 @@
 				"socks",
 				"boots",
 				"pda",
-				"uzi"
+				"uzi",
+				"pockknife"
             ],
             "male": [
 				"boxer_shorts"
@@ -734,5 +700,186 @@
 				"boy_shorts"
             ]
         }
+	},
+	{
+        "type": "profession",
+        "ident": "improviser",
+        "name": "Improviser",
+        "description": "You could always find a new application for something, a skill that will no doubt serve you well.",
+        "points": 2,
+        "skills": [
+            {
+                "level": 2,
+                "name": "carpentry"
+            },
+			{
+				"level": 2,
+				"name": "fabrication"
+			},
+			{
+				"level": 2,
+				"name": "mechanics"
+			}
+        ],
+        "items": {
+            "both": [
+				"tshirt",
+				"pants",
+				"socks",
+				"sneakers",
+				"nailrifle",
+				"bayonet",
+				"crude_picklock",
+				"makeshift_knife"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "pharmacist",
+        "name": "Pharmacist",
+        "description": "Yeah, the Zombies refuse to take their meds too. Maybe you'll find a group of survivors soon...",
+        "points": 1,
+        "skills": [
+            {
+                "level": 2,
+                "name": "cooking"
+            },
+			{
+				"level": 1,
+				"name": "barter"
+			}
+        ],
+        "items": {
+            "both": [
+				"coat_lab",
+				"pants",
+				"socks",
+				"sneakers",
+				"aspirin",
+				"bandages"
+            ],
+            "male": [
+				"dress_shirt",
+				"briefs"
+            ],
+            "female": [
+                "sundress",
+				"bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "prototypeandroid",
+        "name": "Prototype Android",
+        "description": "You were the latest and greatest model, and just a few weeks before the final model was set to be in production, the Cataclysm struck.",
+        "points": 3,
+        "items": {
+            "both": [
+				"pants",
+				"sneakers",
+				"battery",
+				"battery",
+				"battery"
+            ],
+            "male": [
+				"tshirt"
+            ],
+            "female": [
+                "dress"
+            ]
+        },
+		"CBMs": [
+			"bio_batteries",
+			"bio_blood_anal",
+			"bio_power_storage_mkII",
+			"bio_tools",
+			"bio_storage",
+			"bio_hydraulics",
+			"bio_recycler"
+		]
+	},
+	{
+        "type": "profession",
+        "ident": "daredevil",
+        "name": "Daredevil",
+        "description": "You always had to get that rush of adrenaline, and you just couldn't keep away from danger.",
+        "points": 1,
+        "skills": [
+            {
+                "level": 1,
+                "name": "dodge"
+            },
+			{
+				"level": 1,
+				"name": "survival"
+			}
+        ],
+        "items": {
+            "both": [
+				"jumpsuit",
+				"helmet_bike",
+				"socks",
+				"sneakers",
+				"switchblade",
+				"rope_30",
+				"backpack"
+            ],
+            "male": [
+				"boxer_shorts"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "assassin",
+        "name": "Assassin",
+        "description": "You were a hired killer; a master of disguise. You always got the job done. But the day you were told to kill a man near the evac shelter was you lucky day, as that was the day of the Cataclysm",
+        "points": 2,
+        "skills": [
+            {
+                "level": 3,
+                "name": "dodge"
+            },
+			{
+				"level": 1,
+				"name": "melee"
+			}
+        ],
+        "items": {
+            "both": [
+				"switchblade",
+				"tonfa",
+				"dress_shirt",
+				"pants",
+				"socks",
+				"sneakers",
+				"jacket_leather"
+            ],
+            "male": [
+				"boxer_shorts"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        },
+		"CBMs": [
+			"bio_power_storage",
+			"bio_eyes"
+		]
 	}
 ]

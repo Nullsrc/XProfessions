@@ -3,6 +3,7 @@
         "mod-type": "SUPPLEMENTAL",
         "ident": "xprofessions",
         "name": "XProfessions",
+		"author": "Enke",
         "description": "Adds more professions",
         "path": "\data\json\professions.json"
     }
