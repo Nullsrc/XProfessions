@@ -524,26 +524,6 @@
 	},
 	{
         "type": "profession",
-        "ident": "flasher",
-        "name": "Flasher",
-        "description": "Anytime you try to flash a zombie, he almost eats your brains. It's probably wise to not get close enough to attempt to flash them, anyway.",
-        "points": 0,
-        "items": {
-            "both": [
-				"trenchcoat",
-				"socks",
-				"sneakers"
-            ],
-            "male": [
-				"mag_porn"
-            ],
-            "female": [
-                "novel_erotic"
-            ]
-        }
-	},
-	{
-        "type": "profession",
         "ident": "cannabisgrower",
         "name": "Cannabis Grower",
         "description": "You grew and sold Cannabis before the Cataclysm. Maybe someday you'll find someone willing to buy it.",
