@@ -17,7 +17,6 @@ How to install: Unpack the XProfessions-master folder into your mods folder of y
 *Middle Aged Guy
 *Mayor
 *Jogger
-*Flasher
 *Cannabis Grower
 *Furry LARPer
 *Factory Worker
@@ -41,6 +40,7 @@ Version 3.1: Rebalancing
 
 Version 4.0: Bugfixes, added: Improviser, Pharmacist, Prototype Android, Daredevil, Assassin.
 Version 4.1: Bartender and Millionaire
+Version 4.2: Flasher removed
 
 
 
