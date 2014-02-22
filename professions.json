@@ -1062,5 +1062,79 @@
 				"panties"
             ]
         }
+	},
+	{
+        "type": "profession",
+        "ident": "archaeologist",
+        "name": "Archaeologist",
+        "description": "Unfortunately, a college education in imprinted rocks will not come in handy during the end of the world. Dammit.",
+        "points": 1,
+        "items": {
+            "both": [
+				"pickaxe",
+				"mag_mechanics",
+				"hat_hard",
+				"tshirt",
+				"pants",
+				"socks",
+				"sneakers"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "barbarian",
+        "name": "Barbarian",
+        "description": "Where the hell are you?! You were just ready to go after the Amulet of Yendor when you found yourself in this strange evac shelter.",
+        "points": 0,
+        "skills": [
+            {
+                "level": 3,
+                "name": "melee"
+            }
+        ],
+        "items": {
+            "both": [
+				"sword_crude",
+				"cloak_fur",
+				"helmet_chitin"
+            ],
+			"female": [
+				"bra"
+			]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "captaincaveman",
+        "name": "Caveman",
+        "description": "Dug not understand. Dug want Amulet of Yendor. Dug angry at dead-walkers. DUG ANGRY!",
+        "points": 0,
+        "skills": [
+            {
+                "level": 1,
+                "name": "melee"
+            },
+			{
+				"level": 3,
+				"name": "survival"
+			}
+        ],
+        "items": {
+            "both": [
+				"loincloth_fur",
+				"stick"
+			],
+			"female": [
+				"bra"
+			]
+        }
 	}
 ]
