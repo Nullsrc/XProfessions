@@ -918,5 +918,38 @@
 				"boy_shorts"
             ]
         }
+	},
+	{
+        "type": "profession",
+        "ident": "swordsman",
+        "name": "Swordsman",
+        "description": "Your affinity for the ancient art of sword fighting will serve you well.",
+        "points": 1,
+        "skills": [
+            {
+                "level": 2,
+                "name": "melee"
+            },
+			{
+				"level": 2,
+				"name": "dodge"
+			}
+        ],
+        "items": {
+            "both": [
+				"sword_forged",
+				"tshirt",
+				"pants_cargo",
+				"socks",
+				"sneakers"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
 	}
 ]
