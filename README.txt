@@ -29,6 +29,9 @@ How to install: Unpack the XProfessions-master folder into your mods folder of y
 *Assassin
 *Bartender
 *Millionaire
+*Swordsman
+===============================================
+EVERYTHING BEFORE 4.0 IS BROKEN! DO NOT USE ANYTHING BEFORE 4.0!
 ===============================================
 Version 1.0: Original Release, included: Entrepreneur, Rifle Hunter, Miner, Martial Artist, Delinquent, Spelunker, Factory Worker, Cowboy, Welder, Camper, and Biggest Fan
 
@@ -41,6 +44,7 @@ Version 3.1: Rebalancing
 Version 4.0: Bugfixes, added: Improviser, Pharmacist, Prototype Android, Daredevil, Assassin.
 Version 4.1: Bartender and Millionaire
 Version 4.2: Flasher removed
+Version 4.3: Swordsman added.
 
 
 
