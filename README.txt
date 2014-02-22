@@ -45,9 +45,3 @@ Version 4.0: Bugfixes, added: Improviser, Pharmacist, Prototype Android, Daredev
 Version 4.1: Bartender and Millionaire
 Version 4.2: Flasher removed
 Version 4.3: Swordsman added.
-
-
-
-"I'm not going to let you tear away everything I care about. I will fight! I will survive! I fight for anyone I believe in. And if you harm them, I'll make you pay."
-"Ah, but how do you know you can do these things. Do you know if you can survive? If you survive, can you fight? If you fight, can you fight for those you believe in?"
-"You...deceived us. Millions are dead because of you. I won't stop until you are destroyed!"
