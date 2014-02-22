@@ -951,5 +951,116 @@
 				"panties"
             ]
         }
+	},
+	{
+        "type": "profession",
+        "ident": "homemaker",
+        "name": "Homemaker",
+        "description": "It's not much, but your life of housework may serve you will.",
+        "points": -1,
+        "items": {
+            "both": [
+				"mop",
+				"socks",
+				"sneakers"
+            ],
+            "male": [
+				"briefs",
+				"tshirt",
+				"jeans"
+            ],
+            "female": [
+                "bra",
+				"panties",
+				"dress"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "vandal",
+        "name": "Vandal",
+        "description": "It was early in the morning, and you were preparing to graffiti the evac shelter. At least you're safe for now.",
+        "points": 0,
+        "skills": [
+			{
+				"level": 1,
+				"name": "barter"
+			}
+        ],
+        "items": {
+            "both": [
+				"spray_can",
+				"permanent_marker",
+				"tshirt",
+				"hoodie",
+				"socks",
+				"sneakers"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "roleplayer",
+        "name": "Roleplayer",
+        "description": "Maybe you'll happen across a +5 tommy gun of zombie slaying.",
+        "points": -3,
+        "skills": [
+            {
+                "level": 1,
+                "name": "barter"
+            },
+			{
+				"level": 1,
+				"name": "speech"
+			}
+        ],
+        "items": {
+            "both": [
+				"tshirt",
+				"jeans",
+				"pockknife",
+				"socks",
+				"sneakers"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "vacationer",
+        "name": "Vacationer",
+        "description": "Dammit! Every time you want to go on vacation something crappy happens! Now you'll never get to the beach! Oh, and they ate your family, but more importantly, YOU'LL NEVER GET TO THE BEACH!",
+        "points": 0,
+        "items": {
+            "both": [
+				"roadmap",
+				"tshirt",
+				"shorts",
+				"backpack",
+				"sneakers",
+				"socks"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
 	}
 ]
