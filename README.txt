@@ -30,6 +30,10 @@ How to install: Unpack the XProfessions-master folder into your mods folder of y
 *Bartender
 *Millionaire
 *Swordsman
+*Homemaker
+*Vandal
+*Roleplayer
+*Vacationer
 ===============================================
 EVERYTHING BEFORE 4.0 IS BROKEN! DO NOT USE ANYTHING BEFORE 4.0!
 ===============================================
@@ -45,3 +49,4 @@ Version 4.0: Bugfixes, added: Improviser, Pharmacist, Prototype Android, Daredev
 Version 4.1: Bartender and Millionaire
 Version 4.2: Flasher removed
 Version 4.3: Swordsman added.
+Versoin 4.4: Homemaker, Vandal, Roleplayer, and Vacationer added.
