@@ -1145,7 +1145,7 @@
         "ident": "healer",
         "name": "Healer",
         "description": "Where are you? Where are the Dungeons of Doom? And why are there so many zombies around?",
-        "points": 0,
+        "points": -1,
         "skills": [
             {
                 "level": 2,
@@ -1187,7 +1187,8 @@
 				"legguard_metal",
 				"helmet_skid",
 				"boots",
-				"zweihander"
+				"zweihander",
+				"backpack"
             ],
             "male": [
 				"briefs"
@@ -1203,7 +1204,7 @@
         "ident": "monk",
         "name": "Monk",
         "description": "You had trained for years to enter the Dungeons of Doom for Shan Lai Ching, and now you're god-knows-where. Hopefully your training will serve you well.",
-        "points": 1,
+        "points": 0,
         "skills": [
             {
                 "level": 2,
@@ -1219,7 +1220,8 @@
 				"q_staff",
 				"cloak",
 				"boots",
-				"gloves_leather"
+				"gloves_leather",
+				"backpack"
             ],
             "male": [
 				"briefs"
