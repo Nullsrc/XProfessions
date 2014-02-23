@@ -1077,7 +1077,8 @@
 				"tshirt",
 				"pants",
 				"socks",
-				"sneakers"
+				"sneakers",
+				"backpack"
             ],
             "male": [
 				"briefs"
@@ -1104,7 +1105,8 @@
             "both": [
 				"sword_crude",
 				"cloak_fur",
-				"helmet_chitin"
+				"helmet_chitin",
+				"backpack"
             ],
 			"female": [
 				"bra"
@@ -1130,11 +1132,102 @@
         "items": {
             "both": [
 				"loincloth_fur",
-				"stick"
+				"stick",
+				"backpack"
 			],
 			"female": [
 				"bra"
 			]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "healer",
+        "name": "Healer",
+        "description": "Where are you? Where are the Dungeons of Doom? And why are there so many zombies around?",
+        "points": 0,
+        "skills": [
+            {
+                "level": 2,
+                "name": "firstaid"
+            }
+        ],
+        "items": {
+            "both": [
+				"cloak",
+				"boots",
+				"q_staff",
+				"backpack"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "knight",
+        "name": "Knight",
+        "description": "By the gods! You've never seen this much destruction before. Too bad you still don't have your horse with you.",
+        "points": 1,
+        "skills": [
+            {
+                "level": 2,
+                "name": "melee"
+            }
+        ],
+        "items": {
+            "both": [
+				"armor_scrapsuit",
+				"armguard_metal",
+				"legguard_metal",
+				"helmet_skid",
+				"boots",
+				"zweihander"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "monk",
+        "name": "Monk",
+        "description": "You had trained for years to enter the Dungeons of Doom for Shan Lai Ching, and now you're god-knows-where. Hopefully your training will serve you well.",
+        "points": 1,
+        "skills": [
+            {
+                "level": 2,
+                "name": "melee"
+            },
+			{
+				"level": 1,
+				"name": "bashing"
+			}
+        ],
+        "items": {
+            "both": [
+				"q_staff",
+				"cloak",
+				"boots",
+				"gloves_leather"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
         }
 	}
 ]
