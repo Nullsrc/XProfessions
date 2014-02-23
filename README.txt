@@ -37,6 +37,9 @@ How to install: Unpack the XProfessions-master folder into your mods folder of y
 *Archaeologist
 *Barbarian
 *Caveman
+*Healer
+*Knight
+*Monk
 ===============================================
 EVERYTHING BEFORE 4.0 IS BROKEN! DO NOT USE ANYTHING BEFORE 4.0!
 ===============================================
@@ -53,4 +56,5 @@ Version 4.1: Bartender and Millionaire
 Version 4.2: Flasher removed
 Version 4.3: Swordsman added.
 Version 4.4: Homemaker, Vandal, Roleplayer, and Vacationer added.
-Version 4.5: Archaeologist, Barbarian, and Caveman added.
+Version 4.5-a: Archaeologist, Barbarian, and Caveman added.
+Version 4.5-b: Healer, Knight, and Monk added.
