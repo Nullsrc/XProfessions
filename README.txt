@@ -40,6 +40,10 @@ How to install: Unpack the XProfessions-master folder into your mods folder of y
 *Healer
 *Knight
 *Monk
+*Priest
+*Ranger
+*Rogue
+*Samurai
 ===============================================
 EVERYTHING BEFORE 4.0 IS BROKEN! DO NOT USE ANYTHING BEFORE 4.0!
 ===============================================
@@ -58,3 +62,4 @@ Version 4.3: Swordsman added.
 Version 4.4: Homemaker, Vandal, Roleplayer, and Vacationer added.
 Version 4.5-a: Archaeologist, Barbarian, and Caveman added.
 Version 4.5-b: Healer, Knight, and Monk added.
+Version 4.5-c: Priest, Ranger, Rogue, Samurai added.
