@@ -1231,5 +1231,143 @@
 				"panties"
             ]
         }
+	},
+	{
+        "type": "profession",
+        "ident": "priest",
+        "name": "Priest",
+        "description": "Ummm... methinks the zombies won't listen to your sermon very well. On the other hand... yeek. The other hand... Holy Crap!",
+        "points": -1,
+        "skills": [
+			{
+				"level": 4,
+				"name": "speech"
+			}
+        ],
+        "items": {
+            "both": [
+				"suit",
+				"skinny_tie",
+				"pants",
+				"socks",
+				"dress_shoes"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "rogue",
+        "name": "Rogue",
+        "description": "Now where the hell are the Dungeons of Doom? Where's the amulet? Where in the world are you? Say, those look a lot like kobold zombies, only less kobold... Crud.",
+        "points": 0,
+        "skills": [
+            {
+                "level": 2,
+                "name": "swimming"
+            },
+			{
+				"level": 4,
+				"name": "dodge"
+			}
+        ],
+        "items": {
+            "both": [
+				"knife_combat",
+				"cloak",
+				"tshirt",
+				"backpack",
+				"socks",
+				"boots"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "ranger",
+        "name": "Ranger",
+        "description": "Whoa, these strange bows they have in the future are amazing! I oughta find a way to take it back to my dimension.",
+        "points": 1,
+        "skills": [
+            {
+                "level": 2,
+                "name": "dodge"
+            },
+			{
+				"level": 2,
+				"name": "survival"
+			},
+			{
+				"level": 4,
+				"name": "archery"
+			}
+        ],
+        "items": {
+            "both": [
+				"cloak",
+				"hat_cotton",
+				"shortbow",
+				"backpack",
+				"arrow_fire_hardened",
+				"arrow_fire_hardened",
+				"arrow_fire_hardened",
+				"arrow_fire_hardened",
+				"arrow_fire_hardened",
+				"arrow_fire_hardened",
+				"arrow_fire_hardened"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "samurai",
+        "name": "Samurai",
+        "description": "Hi-Keeyah!",
+        "points": 1,
+        "skills": [
+            {
+                "level": 2,
+                "name": "dodge"
+            },
+			{
+				"level": 2,
+				"name": "cutting"
+			}
+        ],
+        "items": {
+            "both": [
+				"katana",
+				"wakizashi",
+				"armor_samurai",
+				"boots"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
 	}
 ]
