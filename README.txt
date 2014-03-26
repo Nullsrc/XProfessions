@@ -1,7 +1,5 @@
-###XProfession
-#By Enke
 
-The is a mod for Cataclysm: Dark Days Ahead. It adds several new professions. DEV VERSION REQUIRED
+The is a mod for Cataclysm: Dark Days Ahead. It adds several new professions.
 ===============================================
 How to install: Unpack the XProfessions-master folder into your mods folder of your data directory. Rename it to: "Xprofession" (nix the quotes, of course)
 ===============================================
