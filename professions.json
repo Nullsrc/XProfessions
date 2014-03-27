@@ -359,7 +359,7 @@
         "points": 2,
         "skills": [
             {
-                "level": 4,
+                "level": 6,
                 "name": "driving"
             },
 			{
@@ -1078,7 +1078,7 @@
 				"pants",
 				"socks",
 				"sneakers",
-				"backpack"
+				"mbag"
             ],
             "male": [
 				"briefs"
@@ -1105,8 +1105,7 @@
             "both": [
 				"sword_crude",
 				"cloak_fur",
-				"helmet_chitin",
-				"backpack"
+				"helmet_chitin"
             ],
 			"female": [
 				"bra"
@@ -1132,8 +1131,7 @@
         "items": {
             "both": [
 				"loincloth_fur",
-				"stick",
-				"backpack"
+				"stick"
 			],
 			"female": [
 				"bra"
@@ -1156,8 +1154,7 @@
             "both": [
 				"cloak",
 				"boots",
-				"q_staff",
-				"backpack"
+				"q_staff"
             ],
             "male": [
 				"briefs"
@@ -1187,8 +1184,7 @@
 				"legguard_metal",
 				"helmet_skid",
 				"boots",
-				"zweihander",
-				"backpack"
+				"zweihander"
             ],
             "male": [
 				"briefs"
@@ -1220,8 +1216,7 @@
 				"q_staff",
 				"cloak",
 				"boots",
-				"gloves_leather",
-				"backpack"
+				"gloves_leather"
             ],
             "male": [
 				"briefs"
@@ -1282,7 +1277,6 @@
 				"knife_combat",
 				"cloak",
 				"tshirt",
-				"backpack",
 				"socks",
 				"boots"
             ],
@@ -1320,7 +1314,7 @@
 				"cloak",
 				"hat_cotton",
 				"shortbow",
-				"backpack",
+				"mbag",
 				"arrow_fire_hardened",
 				"arrow_fire_hardened",
 				"arrow_fire_hardened",
@@ -1369,5 +1363,137 @@
 				"panties"
             ]
         }
+	},
+	{
+        "type": "profession",
+        "ident": "tourist",
+        "name": "Tourist",
+        "description": "You'd much rather be touring the dungeons of doom, but it doesn't appear that you'll be able to anytime soon",
+        "points": -1,
+        "skills": [
+            {
+                "level": 2,
+                "name": "driving"
+            },
+			{
+				"level": 2,
+				"name": "speech"
+			}
+        ],
+        "items": {
+            "both": [
+				"polo_shirt",
+				"pants",
+				"cash_card",
+				"golf_club",
+				"mbag",
+				"socks",
+				"sneakers"
+            ],
+            "male": [
+				"briefs",
+				"undershirt"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "valkyrie",
+        "name": "Valkyrie",
+        "description": "You didn't think that there was anything special about that glowing zombie. This is what you get for not thinking on top of your game",
+        "points": 1,
+        "skills": [
+            {
+                "level": 3,
+                "name": "cutting"
+            },
+			{
+				"level": 1,
+				"name": "archery"
+			}
+        ],
+        "items": {
+            "both": [
+				"sword_forged",
+				"boots_plate",
+				"gloves_plate",
+				"armor_lightplate",
+				"helmet_barbute"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "wizard",
+        "name": "Wizard",
+        "description": "By the dark arts...",
+        "points": -2,
+        "skills": [
+            {
+                "level": 2,
+                "name": "gun"
+            }
+        ],
+        "items": {
+            "both": [
+				"cloak",
+				"q_staff",
+				"leathersandals",
+				"fanny"
+            ],
+            "male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+            ]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "terminator",
+        "name": "T-1000",
+        "description": "Looks like you picked the wrong guy to assasinate at the wrong time.",
+        "points": 4,
+        "skills": [
+            {
+                "level": 4,
+                "name": "gun"
+            },
+			{
+				"level": 3,
+				"name": "melee"
+			},
+			{
+				"level": 3,
+				"name": "dodge"
+			}
+        ],
+        "items": {
+            "both": [
+				"uzi",
+				"9mm",
+				"pants_army",
+				"socks",
+				"sneakers",
+				"jacket_leather"
+            ]
+        },
+		"CBMs": [
+			"bio_power_storage_mkII",
+			"bio_batteries",
+			"bio_ears",
+			"bio_eye_enhancer",
+			"bio_targeting"
+		]
 	}
 ]
