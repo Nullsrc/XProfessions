@@ -1495,5 +1495,105 @@
 			"bio_eye_enhancer",
 			"bio_targeting"
 		]
+	},
+	{
+        "type": "profession",
+        "ident": "bguard",
+        "name": "Bionic Guard",
+        "description": "You beat out the competition with a set of bionic enhancements, making employers practically fall over themeslves to hire you. Equipped with the latest in bionic and security technology, you were prepared to handle any criminal. Unfortunately, your job description didn't include zombies.",
+        "points": 2,
+        "skills": [
+            {
+                "level": 2,
+                "name": "pistol"
+            },
+			{
+				"level": 1,
+				"name": "melee"
+			}
+        ],
+        "items": {
+            "both": [
+				"usp_9mm",
+				"9mm",
+				"jacket_light",
+				"pants",
+				"socks",
+				"boots",
+				"flashlight"
+            ],
+			"male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+			]
+        },
+		"CBMs": [
+			"bio_power_storage_mkII",
+			"bio_power_storage_mkII",
+			"bio_alarm",
+			"bio_batteries",
+			"bio_ears",
+			"bio_eye_enhancer"
+		]
+	},
+	{
+        "type": "profession",
+        "ident": "joe",
+        "name": "Average Joe",
+        "description": "What chance could some normal guy have in this hellhole of a world? Luckily for you, you managed to grab some household items as you fled.",
+        "points": 2,
+        "skills": [
+            {
+                "level": 1,
+                "name": "carpentry"
+            },
+			{
+				"level": 1,
+				"name": "melee"
+			},
+			{
+				"level": 1,
+				"name": "gun"
+			}
+        ],
+        "items": {
+            "both": [
+				"bat",
+				"water_clean",
+				"jeans",
+				"tshirt",
+				"jacket_light"
+            ],
+			"male": [
+				"briefs"
+            ],
+            "female": [
+                "bra",
+				"panties"
+			]
+        }
+	},
+	{
+        "type": "profession",
+        "ident": "flasher",
+        "name": "Flasher",
+        "description": "Anytime you try to flash a zombie, he almost eats your brains. It's probably wise to not get close enough to attempt to flash them, anyway.",
+        "points": -1,
+        "items": {
+            "both": [
+				"trenchcoat",
+				"socks",
+				"sneakers"
+            ],
+            "male": [
+				"mag_porn"
+            ],
+            "female": [
+                "novel_erotic"
+            ]
+        }
 	}
 ]

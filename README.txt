@@ -49,6 +49,9 @@ How to install: Unpack the XProfessions-master folder into your mods folder of y
 *Valkyrie
 *Wizard
 *T-1000
+*Bionic Guard
+*Average Joe
+*Flasher
 ===============================================
 EVERYTHING BEFORE 4.0 IS BROKEN! DO NOT USE ANYTHING BEFORE 4.0!
 ===============================================
@@ -72,3 +75,4 @@ Version 4.5-d: Tourist, Wizard, Valkyrie added
 Version 4.6: T-1000 added
 
 Version 5.0: Re-Licensed to CC-BY-SA
+Version 5.1: Bionic Guard, Average Joe, Flasher added.
