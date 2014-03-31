@@ -36,6 +36,40 @@
         }
 	},
 	{
+		"type" : "profession",
+		"ident" : "rifle_hunter",
+		"name" : "Rifle Hunter",
+		"description" : "Your buddies knew you as the guy who always wanted to get out in the woods and shoot deer. They mocked you for your trapping and rifle skills. You'd laugh at them now, but they're all dead.",
+		"points" : 3,
+		"skills" : [
+			{
+				"level": 1,
+				"name": "trapping"
+			},
+			{
+				"level": 2,
+				"name": "rifle"
+			}
+		]
+		"items" : {
+			"both": [	
+				"backpack",
+				"jeans",
+				"army_top",
+				"socks",
+				"boots",
+				"marlin_9a"
+			],
+			"male": [
+				"briefs"
+			],
+			"female": [
+				"bra",
+				"panties"
+			]
+		}
+	},
+	{
         "type": "profession",
         "ident": "miner",
         "name": "Miner",
