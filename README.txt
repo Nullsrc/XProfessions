@@ -77,3 +77,4 @@ Version 4.6: T-1000 added
 Version 5.0: Re-Licensed to CC-BY-SA
 Version 5.1: Bionic Guard, Average Joe, Flasher added.
 Version 5.2: Rifle Hunter fixed
+Version 5.2.1: From the south you hear Bugfixes!
